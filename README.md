@@ -17,11 +17,10 @@ This is small portion of home page of Flipkart. Built using HTML,CSS and an exte
 
 A couple of screenshots complete project: 
 
+<img width="938" alt="first" src="https://user-images.githubusercontent.com/112818778/219956757-e0797d79-debd-4edd-a135-6b2ea1b8442d.png">
 
 
-
-
-
+<img width="928" alt="second" src="https://user-images.githubusercontent.com/112818778/219956769-e38e7ede-3cfc-4fa6-b637-83b75d28b510.png">
 
 
 
