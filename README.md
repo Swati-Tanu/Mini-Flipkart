@@ -28,7 +28,7 @@ A couple of screenshots complete project:
 ## Deployment
 
 The deployed link of the project:
-#### thepurehtmlwebsite.netlify.app
+#### https://flipkarthomemini.netlify.app/
 
 ## Contributions
 
