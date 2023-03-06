@@ -1,6 +1,6 @@
 # Mini-Flipkart
 
-This is small portion of home page of Flipkart. Built using HTML,CSS and an external site called Unsplash. 
+This is small portion of home page of Flipkart. Built using HTML5,CSS3 and an external site called Unsplash. 
 
 ## Getting Started
 
