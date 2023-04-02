@@ -12,7 +12,6 @@ This is small portion of home page of Flipkart. Built using HTML5,CSS3 and an ex
 
 
 
-
 ## Demo
 
 A couple of screenshots complete project: 
